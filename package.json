@@ -14,7 +14,7 @@
     "node": ">=0.10.x"
   },
   "dependencies": {
-    "heapdump": "0.3.x",
+    "heapdump": "https://github.com/DDuarte/node-heapdump/tarball/master",
     "hoek": "2.x.x"
   },
   "peerDependencies": {
